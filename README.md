@@ -74,12 +74,5 @@ Frontend Developer | Linux Customizer | Hyperland Fanboy
 
 ---
 
-## 📜 License
-
-[MIT](LICENSE)
-
-Feel free to fork, customize, and share your own Hyprland vibe ✨
-
-
 
 
